@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Moon tacos are way better than Eart tacos!
+Moon tacos are way better than Earth tacos!
